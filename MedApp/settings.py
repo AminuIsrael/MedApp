@@ -39,10 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #Third party apps
-    'crispy_forms',
-    'django_tables2',
-    'django_filters',
     'bootstrap3',
+    'crispy_forms',
+    'django_filters',
+    'django_tables2',
+    
 
     #Custom Apps
     'accounts',
