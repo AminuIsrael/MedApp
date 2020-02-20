@@ -4,7 +4,7 @@ This is a Django based medical data application built to meet the following requ
 
 1. Separate Signup for users and medical practitioners
 
-2. A page were users(only) can fill in their medical information
+2. A page where users(only) can fill in their medical information
 
 3. A page that displays the statistical details of the medical records gotten from the users(I used chart.js). 
 
