@@ -15,6 +15,6 @@ This is a Django based medical data application built to meet the following requ
 1. Clone the Repo
 2. Create a virtual environment
 3. install requirements with `pip install -r requirements.txt`
-4. Add a SECRET_KEY to your environment. e.g: on Linux run: `setx SECRET_KEY= <secret-key-of-your-choice> 
+4. Add a SECRET_KEY to your environment. e.g: on Linux run: `setx SECRET_KEY= <secret-key-of-your-choice>`
 5. run migrations with `python manage.py migrate`
 6. Run the development server with `python manage.py runserver` 
